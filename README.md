@@ -45,3 +45,8 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### it
 - Informatica Quantistica, introduzione con esempi in linguaggio C, Francesco Sisini, Valentina Sisini, ISBN-13: 979-8602651836
 - Qubits: principi fondamentali, Francesco Sisini, Valentina Sisini, ISBN-13: 979-8588192590
+
+## Frameworks
+- [Q# and the Quantum Development Kit](https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/#overview) by Microsoft
+- [IBM Quantum](https://quantum-computing.ibm.com/)
+- [Cirq](https://quantumai.google/cirq) by Google
