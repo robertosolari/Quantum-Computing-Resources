@@ -31,7 +31,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 
-## Courses 
+## Quantum Computing Courses 
 ### MIT
 - [Quantum Computation](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/)
 - [Quantum Information Science](https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/)
