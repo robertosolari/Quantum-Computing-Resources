@@ -74,8 +74,8 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - **Learn Quantum Computing with Python and IBM Quantum Experience**, Robert Loredo, ISBN-10: 1838981004, ISBN-13: 978-1838981006
 
 ### it
-- Informatica Quantistica, introduzione con esempi in linguaggio C, Francesco Sisini, Valentina Sisini, ISBN-13: 979-8602651836
-- Qubits: principi fondamentali, Francesco Sisini, Valentina Sisini, ISBN-13: 979-8588192590
+- **Informatica Quantistica, introduzione con esempi in linguaggio C**, Francesco Sisini, Valentina Sisini, ISBN-13: 979-8602651836
+- **Qubits: principi fondamentali, Francesco Sisini, Valentina Sisini**, ISBN-13: 979-8588192590
 
 ## Frameworks
 - [Q# and the Quantum Development Kit](https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/#overview) by Microsoft
