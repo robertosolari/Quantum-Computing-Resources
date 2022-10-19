@@ -19,12 +19,18 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Applied Quantum Computing I Fundamentals](https://www.edx.org/course/quantum-computing-i-fundamentals?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=17)
 - [Applied Quantum Computing II Hardware](https://www.edx.org/course/quantum-computing-ii-hardware?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=21)
 - [Applied Quantum Computing III Algorithm and Software](https://www.edx.org/course/quantum-computing-iii-algorithm-and-software?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=18)
+- [Quantum Networking](https://www.edx.org/course/quantum-networking?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=19)
+- [Introduction to Quantum Science & Technology](https://www.edx.org/course/introduction-to-quantum-technology?index=product_value_experiment_a&queryID=03fedc41a24ee315b2be20d3075f2b12&position=2)
 
 ### Delft University of Technology
 - [Fundamentals of Quantum Information](https://www.edx.org/course/fundamentals-of-quantum-information?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=11)
 - [The Hardware of a Quantum Computer](https://www.edx.org/course/hardware-of-quantum-computer?index=product_value_experiment_a&queryID=d483464f2dfea2786aa63a4917eba86f&position=4)
 - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://www.edx.org/course/architecture-algorithms-quantum-computer-internet?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=6)
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/the-quantum-internet-and-quantum-computers-how-w-2?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=7)
+- with Caltech [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography?index=product_value_experiment_a&queryID=03fedc41a24ee315b2be20d3075f2b12&position=1)
+
+###  University of Toronto
+- [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=24)
 
 ### Deep Learning Italia
 - [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/)
