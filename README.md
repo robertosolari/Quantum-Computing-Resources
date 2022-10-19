@@ -50,3 +50,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Q# and the Quantum Development Kit](https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/#overview) by Microsoft
 - [IBM Quantum](https://quantum-computing.ibm.com/)
 - [Cirq](https://quantumai.google/cirq) by Google
+- [TensorFlow Quantum](https://www.tensorflow.org/quantum) QML
