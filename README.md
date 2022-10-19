@@ -12,9 +12,23 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 
 ### MIT
 - [Applications of Quantum Mechanics](https://www.edx.org/course/applications-of-quantum-mechanics?index=product_value_experiment_a&queryID=c9a086cc164ee1ecace57cf3f290e2dd&position=7)
+- [Linear Algebra 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 ### University of California, Berkeley
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-and-quantum-computation?index=product_value_experiment_a&queryID=c9a086cc164ee1ecace57cf3f290e2dd&position=8)
+
+### The University of Texas at Austin
+- [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers?index=product_value_experiment_a&queryID=b265f12bf2032cff1150569c8b62d0a1&position=2)
+
+### The Georgia Institute of Technology
+- [Introductory Linear Algebra](https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra?index=product_value_experiment_a&queryID=ab143727774a447372ef61ace483f383&position=1)
+- [Applications of Linear Algebra](https://www.edx.org/professional-certificate/gtx-applications-of-linear-algebra?index=product_value_experiment_a&queryID=ab143727774a447372ef61ace483f383&position=2)
+
+### 3blue1brown
+- [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+### Khan Academy
+- [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 
 ## Courses 
