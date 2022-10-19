@@ -27,7 +27,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [The Hardware of a Quantum Computer](https://www.edx.org/course/hardware-of-quantum-computer?index=product_value_experiment_a&queryID=d483464f2dfea2786aa63a4917eba86f&position=4)
 - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://www.edx.org/course/architecture-algorithms-quantum-computer-internet?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=6)
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/the-quantum-internet-and-quantum-computers-how-w-2?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=7)
-- with Caltech [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography?index=product_value_experiment_a&queryID=03fedc41a24ee315b2be20d3075f2b12&position=1)
+- [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography?index=product_value_experiment_a&queryID=03fedc41a24ee315b2be20d3075f2b12&position=1) with Caltech
 
 ###  University of Toronto
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=24)
