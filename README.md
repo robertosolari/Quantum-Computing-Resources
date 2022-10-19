@@ -68,10 +68,10 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 
 ## Books
 ### en
-- Quantum Computation and Quantum Information, Michael A. Nielsen, Isaac L. Chuang, ISBN-10:9781107002173, ISBN-13: 978-1107002173
-- Learn Quantum Computing with Python and Q#: A Hands-On Approach, Sarah Kaiser, ISBN-13: 978-1617296130, ISBN-10: 1617296139
-- Dancing with Qubits: How quantum computing works and how it can change the world, Robert S. Sutor, ISBN-10: 1838827366, ISBN-13: 978-1838827366
-- Learn Quantum Computing with Python and IBM Quantum Experience, Robert Loredo, ISBN-10: 1838981004, ISBN-13: 978-1838981006
+- ***Quantum Computation and Quantum Information***, Michael A. Nielsen, Isaac L. Chuang, ISBN-10:9781107002173, ISBN-13: 978-1107002173
+- **Learn Quantum Computing with Python and Q#: A Hands-On Approach**, Sarah Kaiser, ISBN-13: 978-1617296130, ISBN-10: 1617296139
+- **Dancing with Qubits: How quantum computing works and how it can change the world**, Robert S. Sutor, ISBN-10: 1838827366, ISBN-13: 978-1838827366
+- **Learn Quantum Computing with Python and IBM Quantum Experience**, Robert Loredo, ISBN-10: 1838981004, ISBN-13: 978-1838981006
 
 ### it
 - Informatica Quantistica, introduzione con esempi in linguaggio C, Francesco Sisini, Valentina Sisini, ISBN-13: 979-8602651836
