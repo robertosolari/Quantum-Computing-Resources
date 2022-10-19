@@ -1,6 +1,22 @@
 # Quantum-Computing-Resources
 Resources for learning Quantum Computing and Quantum Machine Learning
 
+## Math and Physics behind Quantum Computing
+### Georgetown University
+- [Quantum Mechanics](https://www.edx.org/course/quantum-mechanics?index=product_value_experiment_a&queryID=6bcbb5171426d477601e06e97b1c3908&position=3)
+- [Quantum Mechanics for Everyone](https://www.edx.org/course/quantum-mechanics-for-everyone?index=product_value_experiment_a&queryID=6bcbb5171426d477601e06e97b1c3908&position=23)
+
+### Stanford University
+- [Quantum Mechanics for Scientists and Engineers 1](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-1?index=product_value_experiment_a&queryID=6bcbb5171426d477601e06e97b1c3908&position=1)
+- [Quantum Mechanics for Scientists and Engineers 2](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-2?index=product_value_experiment_a&queryID=6bcbb5171426d477601e06e97b1c3908&position=9)
+
+### MIT
+- [Applications of Quantum Mechanics](https://www.edx.org/course/applications-of-quantum-mechanics?index=product_value_experiment_a&queryID=c9a086cc164ee1ecace57cf3f290e2dd&position=7)
+
+### University of California, Berkeley
+- [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-and-quantum-computation?index=product_value_experiment_a&queryID=c9a086cc164ee1ecace57cf3f290e2dd&position=8)
+
+
 ## Courses 
 ### MIT
 - [Quantum Computation](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/)
