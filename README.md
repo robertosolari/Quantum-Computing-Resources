@@ -74,6 +74,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/)
 - [Quantum Machine Learning](https://deeplearningitalia.com/corsi/corso-quantum-machine-learning-c0031/)
 
+## Blogs, Posts ecc...
+- [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
+
 ## Books
 ### en
 - ***Quantum Computation and Quantum Information***, Michael A. Nielsen, Isaac L. Chuang, ISBN-10:9781107002173, ISBN-13: 978-1107002173
@@ -89,5 +92,6 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Q# and the Quantum Development Kit](https://azure.microsoft.com/en-us/resources/development-kit/quantum-computing/#overview) by Microsoft
 - [IBM Quantum](https://quantum-computing.ibm.com/)
 - [Cirq](https://quantumai.google/cirq) by Google
-- [TensorFlow Quantum](https://www.tensorflow.org/quantum) QML
+- [TensorFlow Quantum](https://www.tensorflow.org/quantum) Quantum ML
 - [Amazon Braket](https://aws.amazon.com/it/braket/)
+- [PennyLane](https://pennylane.ai/) Quantum ML
