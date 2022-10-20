@@ -32,6 +32,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Precalculus Complex numbers](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex)
 - [Algebra 2 Complex numbers](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex)
 
+### PacktPub
+- [Essential Mathematics for Quantum Computing](https://subscription.packtpub.com/book/programming/9781801073141)
+
 
 ## Quantum Computing Courses 
 ### MIT
@@ -84,3 +87,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [IBM Quantum](https://quantum-computing.ibm.com/)
 - [Cirq](https://quantumai.google/cirq) by Google
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) QML
+- [Amazon Braket](https://aws.amazon.com/it/braket/)
