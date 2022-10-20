@@ -30,6 +30,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### 3blue1brown
 - [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+### MathTheBeautiful
+- [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv)
+
 ### Khan Academy
 - [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 - [Precalculus Complex numbers](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex)
