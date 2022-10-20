@@ -13,6 +13,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### MIT
 - [Applications of Quantum Mechanics](https://www.edx.org/course/applications-of-quantum-mechanics?index=product_value_experiment_a&queryID=c9a086cc164ee1ecace57cf3f290e2dd&position=7)
 - [Linear Algebra 18.06SC](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+- [Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
+- [Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
+- [Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2005/)
 
 ### University of California, Berkeley
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-and-quantum-computation?index=product_value_experiment_a&queryID=c9a086cc164ee1ecace57cf3f290e2dd&position=8)
