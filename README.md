@@ -29,6 +29,8 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 
 ### Khan Academy
 - [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+- [Precalculus Complex numbers](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex)
+- [Algebra 2 Complex numbers](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex)
 
 
 ## Quantum Computing Courses 
