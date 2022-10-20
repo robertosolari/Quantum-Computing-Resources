@@ -77,6 +77,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/)
 - [Quantum Machine Learning](https://deeplearningitalia.com/corsi/corso-quantum-machine-learning-c0031/)
 
+### University of British Columbia
+- [Quantum Computing for Your Classroom 10-12](https://www.edx.org/course/quantum-computing-for-your-classroom-10-12?index=product_value_experiment_a&queryID=2752bdc80f5a47f6c785906b305a5663&position=23) Quantum Computing for kids
+
 ## Blogs, Tutorials ecc...
 - [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
 
