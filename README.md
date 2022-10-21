@@ -83,9 +83,6 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### University of British Columbia
 - [Quantum Computing for Your Classroom 10-12](https://www.edx.org/course/quantum-computing-for-your-classroom-10-12?index=product_value_experiment_a&queryID=2752bdc80f5a47f6c785906b305a5663&position=23) Quantum Computing for kids
 
-## Blogs, Tutorials ecc...
-- [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
-
 ## Books
 ### en
 - ***Quantum Computation and Quantum Information***, Michael A. Nielsen, Isaac L. Chuang, ISBN-10:9781107002173, ISBN-13: 978-1107002173
@@ -104,3 +101,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) Quantum ML
 - [Amazon Braket](https://aws.amazon.com/it/braket/)
 - [PennyLane](https://pennylane.ai/) Quantum ML
+
+## Blogs, Tutorials ecc...
+- [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
+- [How Quantum Computing Could Remake Chemistry](https://www.scientificamerican.com/article/how-quantum-computing-could-remake-chemistry/)
