@@ -41,6 +41,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### PacktPub
 - [Essential Mathematics for Quantum Computing](https://subscription.packtpub.com/book/programming/9781801073141)
 
+### Georgia Institute of Technology
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+
 
 ## Quantum Computing Courses 
 ### MIT
