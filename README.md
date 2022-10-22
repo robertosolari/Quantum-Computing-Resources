@@ -38,9 +38,6 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Precalculus Complex numbers](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex)
 - [Algebra 2 Complex numbers](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex)
 
-### PacktPub
-- [Essential Mathematics for Quantum Computing](https://subscription.packtpub.com/book/programming/9781801073141)
-
 ### Georgia Institute of Technology
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 
@@ -89,6 +86,11 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - **Learn Quantum Computing with Python and Q#: A Hands-On Approach**, Sarah Kaiser, ISBN-13: 978-1617296130, ISBN-10: 1617296139
 - **Dancing with Qubits: How quantum computing works and how it can change the world**, Robert S. Sutor, ISBN-10: 1838827366, ISBN-13: 978-1838827366
 - **Learn Quantum Computing with Python and IBM Quantum Experience**, Robert Loredo, ISBN-10: 1838981004, ISBN-13: 978-1838981006
+
+### PacktPub
+- [Essential Mathematics for Quantum Computing](https://subscription.packtpub.com/book/programming/9781801073141)
+- [Quantum Chemistry and Computing for the Curious](https://subscription.packtpub.com/book/programming/9781803243900/)
+- [Quantum Computing Experimentation with Amazon Braket](https://subscription.packtpub.com/book/programming/9781800565265)
 
 ### it
 - **Informatica Quantistica, introduzione con esempi in linguaggio C**, Francesco Sisini, Valentina Sisini, ISBN-13: 979-8602651836
