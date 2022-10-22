@@ -105,5 +105,6 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [PennyLane](https://pennylane.ai/) Quantum ML
 
 ## Blogs, Tutorials ecc...
+- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
 - [How Quantum Computing Could Remake Chemistry](https://www.scientificamerican.com/article/how-quantum-computing-could-remake-chemistry/)
