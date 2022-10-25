@@ -16,6 +16,10 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
 - [Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
 - [Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2005/)
+- [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data?index=product_value_experiment_a&queryID=f0873133566cbc0e7a3a2c737bedc676&position=13)
+
+### Harvard University
+- [Introduction to Probability](https://www.edx.org/course/introduction-to-probability?index=product_value_experiment_a&queryID=718b3e3bf2c38178d21baf49156eabd1&position=1)
 
 ### University of California, Berkeley
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-and-quantum-computation?index=product_value_experiment_a&queryID=c9a086cc164ee1ecace57cf3f290e2dd&position=8)
@@ -26,6 +30,10 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### The Georgia Institute of Technology
 - [Introductory Linear Algebra](https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra?index=product_value_experiment_a&queryID=ab143727774a447372ef61ace483f383&position=1)
 - [Applications of Linear Algebra](https://www.edx.org/professional-certificate/gtx-applications-of-linear-algebra?index=product_value_experiment_a&queryID=ab143727774a447372ef61ace483f383&position=2)
+- [Probability and Statistics I: A Gentle Introduction to Probability](https://www.edx.org/course/probability-and-statistics-i-a-gentle-introduction-to-probability?index=product_value_experiment_a&queryID=718b3e3bf2c38178d21baf49156eabd1&position=2)
+- [Probability and Statistics II: Random Variables – Great Expectations to Bell Curves](https://www.edx.org/course/probability-and-statistics-ii-random-variables-great-expectations-to-bell-curves?index=product_value_experiment_a&queryID=f0873133566cbc0e7a3a2c737bedc676&position=6)
+- [Probability and Statistics III: A Gentle Introduction to Statistics](https://www.edx.org/course/probability-and-statistics-iii-a-gentle-introduction-to-statistics)
+- [Probability and Statistics IV: Confidence Intervals and Hypothesis Tests](https://www.edx.org/course/probability-and-statistics-iv-confidence-intervals-and-hypothesis-tests)
 
 ### 3blue1brown
 - [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
