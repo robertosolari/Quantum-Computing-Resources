@@ -94,7 +94,8 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - **Learn Quantum Computing with Python and Q#: A Hands-On Approach**, Sarah Kaiser, ISBN-13: 978-1617296130, ISBN-10: 1617296139
 - **Dancing with Qubits: How quantum computing works and how it can change the world**, Robert S. Sutor, ISBN-10: 1838827366, ISBN-13: 978-1838827366
 - **Learn Quantum Computing with Python and IBM Quantum Experience**, Robert Loredo, ISBN-10: 1838981004, ISBN-13: 978-1838981006
-- **Quantum Mechanics: The Theoretical Minimum**, Leonard Susskind, Art Friedman, ASIN: B00IFTT8GA 
+- **Quantum Mechanics: The Theoretical Minimum**, Leonard Susskind, Art Friedman, ASIN: B00IFTT8GA
+- **Introduction to Classical and Quantum Computing**, Dr Thomas G Wong, ISBN-13: 979-8985593105
 
 ### PacktPub
 - [Essential Mathematics for Quantum Computing](https://subscription.packtpub.com/book/programming/9781801073141)
