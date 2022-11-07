@@ -114,8 +114,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Amazon Braket](https://aws.amazon.com/it/braket/)
 - [PennyLane](https://pennylane.ai/) Quantum ML
 
-## Blogs, Tutorials ecc...
+## Blogs, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
 - [How Quantum Computing Could Remake Chemistry](https://www.scientificamerican.com/article/how-quantum-computing-could-remake-chemistry/)
 - [Our Brains Use Quantum Computation](https://neurosciencenews.com/brain-quantum-computing-21695/)
+- [Youtube channel of QISKIT](https://www.youtube.com/c/qiskit/)
