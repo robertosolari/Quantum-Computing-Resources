@@ -128,3 +128,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [How Quantum Computing Could Remake Chemistry](https://www.scientificamerican.com/article/how-quantum-computing-could-remake-chemistry/)
 - [Our Brains Use Quantum Computation](https://neurosciencenews.com/brain-quantum-computing-21695/)
 - [Youtube channel of QISKIT](https://www.youtube.com/c/qiskit/)
+- [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) **comprehensive catalog of quantum algorithms.**
