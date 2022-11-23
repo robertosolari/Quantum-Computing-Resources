@@ -86,6 +86,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### Deep Learning Italia
 - [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/) **(paid)**
 - [Quantum Machine Learning](https://deeplearningitalia.com/corsi/corso-quantum-machine-learning-c0031/) **(paid)**
+- [Quantum Information Theory](https://deeplearningitalia.com/corsi/quantum-information-theory-c0047/) **(paid)**
 
 ### School of Disruption - Swiss Institute for Disruptive Innovation
 - [Quantum Computing Basics](https://www.disruption.school/product/quantum-computing-basics/) **(paid)**
