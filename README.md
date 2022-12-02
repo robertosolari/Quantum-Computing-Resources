@@ -122,6 +122,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) Quantum ML
 - [Amazon Braket](https://aws.amazon.com/it/braket/)
 - [PennyLane](https://pennylane.ai/) Quantum ML
+- [D-Wave Ocean](https://docs.ocean.dwavesys.com/en/latest/getting_started.html)
 
 ## Blogs, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
