@@ -123,6 +123,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Amazon Braket](https://aws.amazon.com/it/braket/)
 - [PennyLane](https://pennylane.ai/) Quantum ML
 - [D-Wave Ocean](https://docs.ocean.dwavesys.com/en/latest/getting_started.html)
+- [Forest SDK](https://docs.rigetti.com/qcs/) by Rigetti
 
 ## Blogs, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
@@ -131,4 +132,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Our Brains Use Quantum Computation](https://neurosciencenews.com/brain-quantum-computing-21695/)
 - [Youtube channel of QISKIT](https://www.youtube.com/c/qiskit/)
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) **comprehensive catalog of quantum algorithms.**
-- [John Preskill’s Notes on Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html#lecture) **John Preskill**
+- [John Preskill’s Notes on Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)
