@@ -134,6 +134,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) **comprehensive catalog of quantum algorithms.**
 - [John Preskill’s Notes on Quantum Computation](http://theory.caltech.edu/~preskill/ph219/index.html#lecture)
 - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/)
+- [Quantum computing remains tantalisingly out of reach](https://cosmosmagazine.com/technology/quantum-computing-out-of-reach/)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
