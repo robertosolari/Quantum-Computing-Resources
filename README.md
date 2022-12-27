@@ -20,6 +20,10 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2005/)
 - [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data?index=product_value_experiment_a&queryID=f0873133566cbc0e7a3a2c737bedc676&position=13)
 
+### MIT xPRO
+- [Quantum Computing Fundamentals](https://xpro.mit.edu/programs/program-v1:xPRO+QCF/) **(paid)**
+- [Quantum Computing Realities](https://xpro.mit.edu/programs/program-v1:xPRO+QCR/) **(paid)**
+
 ### Harvard University
 - [Introduction to Probability](https://www.edx.org/course/introduction-to-probability?index=product_value_experiment_a&queryID=718b3e3bf2c38178d21baf49156eabd1&position=1)
 
