@@ -141,6 +141,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum computing remains tantalisingly out of reach](https://cosmosmagazine.com/technology/quantum-computing-out-of-reach/)
 - [The Poet of Physics Speaks Out About Quantum Computing’s Future – Interview with Carlo Rovelli](https://thequantuminsider.com/2022/12/07/the-poet-of-physics-speaks-out-about-quantum-computings-future-interview-with-carlo-rovelli/)
 - [New quantum computing architecture could be used to connect large-scale devices](https://news.mit.edu/2023/quantum-interconnects-photon-emission-0105)
+- [Quantum Country](https://quantum.country/)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
