@@ -128,6 +128,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [PennyLane](https://pennylane.ai/) Quantum ML
 - [D-Wave Ocean](https://docs.ocean.dwavesys.com/en/latest/getting_started.html)
 - [Forest SDK](https://docs.rigetti.com/qcs/) by Rigetti
+- [Pulser](https://www.pasqal.com/services/pulser-studio) zero-code development platform for neutral atoms quantum computers, by Pasqal
 
 ## Blogs, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
