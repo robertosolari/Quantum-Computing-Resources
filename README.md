@@ -87,6 +87,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ###  University of Toronto
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=24)
 
+### University of British Columbia
+- [Introduction to Quantum Computing](https://www.edx.org/course/intro-to-quantum-computing)
+
 ### Deep Learning Italia
 - [Quantum Computing](https://deeplearningitalia.com/corsi/corso-quantum-computing-c0030/) **(paid)**
 - [Quantum Machine Learning](https://deeplearningitalia.com/corsi/corso-quantum-machine-learning-c0031/) **(paid)**
