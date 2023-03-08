@@ -151,4 +151,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
 - [iQuHACK 2023](https://www.iquise.mit.edu/iQuHACK/2023-01-27)
-- [EQAI 2023] (http://eqai.eu/) **European Summer School on Quantum AI**
+- [EQAI 2023](http://eqai.eu/) **European Summer School on Quantum AI**
