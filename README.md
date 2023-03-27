@@ -102,6 +102,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### University of British Columbia
 - [Quantum Computing for Your Classroom 10-12](https://www.edx.org/course/quantum-computing-for-your-classroom-10-12?index=product_value_experiment_a&queryID=2752bdc80f5a47f6c785906b305a5663&position=23) Quantum Computing for kids
 
+### The University of Queensland
+- [Quantum Technologies for Decision Makers](https://www.edx.org/course/quantum-technologies-for-decision-makers-2)
+
 ### John Preskill YT channel
 - [Ph/CS 219A Quantum Computation](https://youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
 
