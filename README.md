@@ -76,6 +76,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Applied Quantum Computing III Algorithm and Software](https://www.edx.org/course/quantum-computing-iii-algorithm-and-software?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=18)
 - [Quantum Networking](https://www.edx.org/course/quantum-networking?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=19)
 - [Introduction to Quantum Science & Technology](https://www.edx.org/course/introduction-to-quantum-technology?index=product_value_experiment_a&queryID=03fedc41a24ee315b2be20d3075f2b12&position=2)
+- [Boltzmann Law: Physics to Computing](https://www.edx.org/course/boltzmann-law-physics-to-computing)
 
 ### Delft University of Technology
 - [Fundamentals of Quantum Information](https://www.edx.org/course/fundamentals-of-quantum-information?index=product_value_experiment_a&queryID=3ac207e5b695e6d5b54131e42f04a122&position=11)
