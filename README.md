@@ -109,7 +109,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Ph/CS 219A Quantum Computation](https://youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
 
 ### IQM Academy
--[IQM Academy Curriculum](https://academy.meetiqm.com/curriculum/index.html)
+- [IQM Academy Curriculum](https://academy.meetiqm.com/curriculum/index.html)
 
 ## Books
 ### en
