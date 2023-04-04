@@ -152,6 +152,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [New quantum computing architecture could be used to connect large-scale devices](https://news.mit.edu/2023/quantum-interconnects-photon-emission-0105)
 - [Quantum Country](https://quantum.country/)
 - [20 Influential individuals driving the Quantum Technology Revolution](https://quantumzeitgeist.com/20-influential-individuals-driving-the-quantum-technology-revolution/)
+- [10 Quantum Computing Groups Known for Collaborating With Startups](https://thequantuminsider.com/2023/04/03/10-quantum-computing-groups-known-for-collaborating-with-startups/)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
