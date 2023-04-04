@@ -108,6 +108,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### John Preskill YT channel
 - [Ph/CS 219A Quantum Computation](https://youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
 
+### IQM Academy
+-[IQM Academy Curriculum](https://academy.meetiqm.com/curriculum/index.html)
+
 ## Books
 ### en
 - ***Quantum Computation and Quantum Information***, Michael A. Nielsen, Isaac L. Chuang, ISBN-10:9781107002173, ISBN-13: 978-1107002173
