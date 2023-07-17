@@ -156,6 +156,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Country](https://quantum.country/)
 - [20 Influential individuals driving the Quantum Technology Revolution](https://quantumzeitgeist.com/20-influential-individuals-driving-the-quantum-technology-revolution/)
 - [10 Quantum Computing Groups Known for Collaborating With Startups](https://thequantuminsider.com/2023/04/03/10-quantum-computing-groups-known-for-collaborating-with-startups/)
+- [The Quantum Classroom](https://monitsharma.github.io/)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
