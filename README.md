@@ -157,9 +157,11 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [20 Influential individuals driving the Quantum Technology Revolution](https://quantumzeitgeist.com/20-influential-individuals-driving-the-quantum-technology-revolution/)
 - [10 Quantum Computing Groups Known for Collaborating With Startups](https://thequantuminsider.com/2023/04/03/10-quantum-computing-groups-known-for-collaborating-with-startups/)
 - [The Quantum Classroom](https://monitsharma.github.io/)
+- [Quantum Computing Inc. Launches the First Quantum Photonic Vibrometer](https://thequantuminsider.com/2023/07/20/quantum-computing-inc-launches-the-first-quantum-photonic-vibrometer)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
 - [iQuHACK 2023](https://www.iquise.mit.edu/iQuHACK/2023-01-27)
 - [EQAI 2023](http://eqai.eu/) **European Summer School on Quantum AI**
 - [Quantum Coding Challenge Day](https://www.iop.org/events/quantum-coding-challenge-day) Tue 26 Sep 2023
+- [QuHack4IA – Quantum Hackathon for Industrial Applications](https://www.ifabfoundation.org/2023/07/11/quhack4ia-quantum-hackathon-for-industrial-applications/) September 12-13th, 2023 - Bologna, Italy
