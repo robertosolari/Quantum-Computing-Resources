@@ -142,7 +142,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Pulser](https://www.pasqal.com/services/pulser-studio) zero-code development platform for neutral atoms quantum computers, by Pasqal
 - [Intel Quantum SDK](https://www.intel.com/content/www/us/en/secure/forms/developer/quantum/quantum-sdk.html)
 
-## Blogs, Tutorials, Youtube ecc...
+## Blogs, Substacks, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
 - [How Quantum Computing Could Remake Chemistry](https://www.scientificamerican.com/article/how-quantum-computing-could-remake-chemistry/)
@@ -160,6 +160,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [The Quantum Classroom](https://monitsharma.github.io/)
 - [Quantum Computing Inc. Launches the First Quantum Photonic Vibrometer](https://thequantuminsider.com/2023/07/20/quantum-computing-inc-launches-the-first-quantum-photonic-vibrometer)
 - [QC-Hardware-How-to](https://github.com/OJB-Quantum/QC-Hardware-How-to)
+- [Quantum's Business](https://brianlenahan.substack.com/) Brian Lenahan substack about QC
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
