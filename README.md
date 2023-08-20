@@ -1,7 +1,7 @@
 # Quantum-Computing-Resources
 Resources for learning Quantum Computing and Quantum Machine Learning
 
-***If you want to contribute to the list, feel free to contact me***
+***If you want to contribute to the list, feel free to do a pull request***
 
 ## Math and Physics behind Quantum Computing
 ### Georgetown University
