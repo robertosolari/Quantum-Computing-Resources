@@ -161,6 +161,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Computing Inc. Launches the First Quantum Photonic Vibrometer](https://thequantuminsider.com/2023/07/20/quantum-computing-inc-launches-the-first-quantum-photonic-vibrometer)
 - [QC-Hardware-How-to](https://github.com/OJB-Quantum/QC-Hardware-How-to)
 - [Quantum's Business](https://brianlenahan.substack.com/) Brian Lenahan substack about QC
+- [Quantum Pirates](https://quantumpirates.substack.com/) Sergio Gago substack 
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
