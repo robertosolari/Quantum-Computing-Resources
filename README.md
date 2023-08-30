@@ -141,7 +141,8 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Forest SDK](https://docs.rigetti.com/qcs/) by Rigetti
 - [Pulser](https://www.pasqal.com/services/pulser-studio) zero-code development platform for neutral atoms quantum computers, by Pasqal
 - [Intel Quantum SDK](https://www.intel.com/content/www/us/en/secure/forms/developer/quantum/quantum-sdk.html)
-
+- [ClassiQ](https://www.classiq.io/)
+  
 ## Blogs, Substacks, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - [How to start learning quantum machine learning](https://pennylane.ai/blog/2021/10/how-to-start-learning-quantum-machine-learning/)
