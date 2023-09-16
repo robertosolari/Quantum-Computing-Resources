@@ -112,6 +112,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### IQM Academy
 - [IQM Academy Curriculum](https://academy.meetiqm.com/curriculum/index.html)
 
+### QuTech Academy
+- [The School of Quantum](https://www.qutube.nl/)
+
 ## Books
 ### en
 - ***Quantum Computation and Quantum Information***, Michael A. Nielsen, Isaac L. Chuang, ISBN-10:9781107002173, ISBN-13: 978-1107002173
