@@ -169,6 +169,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum's Business](https://brianlenahan.substack.com/) Brian Lenahan substack about QC
 - [Quantum Pirates](https://quantumpirates.substack.com/) Sergio Gago substack
 - [Introducing a developer's course on post-quantum cryptography](https://developer.ibm.com/blogs/quantum-introducing-course-post-quantum-cryptography/?sf181771506=1) by IBM
+- [Quantum Jobs: So you want to work in Quantum Computing?](https://quantumzeitgeist.com/quantum-jobs-work-in-quantum-computing/)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
