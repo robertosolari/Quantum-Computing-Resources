@@ -180,3 +180,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [QuHack4IA – Quantum Hackathon for Industrial Applications](https://www.ifabfoundation.org/2023/07/11/quhack4ia-quantum-hackathon-for-industrial-applications/) September 12-13th, 2023 - Bologna, Italy
 - [Quantum Game Jam 2023](https://itch.io/jam/quantum-game-jam-2023) September 15-17, 2023
 - [Qiskit Fall Fest Informational](https://www.crowdcast.io/e/fallfestinformational/register?sf181234184=1) 30 August 2023
+- [QISKIT Fall Fest 2023](https://www.units.it/news/qiskit-fall-fest-2023) November 15-17, 2023, Trieste, Italy
