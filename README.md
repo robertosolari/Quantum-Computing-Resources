@@ -147,6 +147,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Intel Quantum SDK](https://www.intel.com/content/www/us/en/secure/forms/developer/quantum/quantum-sdk.html)
 - [ClassiQ](https://www.classiq.io/)
 - [qujax](https://github.com/CQCL/qujax)
+- [CUDA Quantum](https://developer.nvidia.com/cuda-quantum) by Nvidia
   
 ## Blogs, Substacks, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
