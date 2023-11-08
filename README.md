@@ -148,6 +148,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [ClassiQ](https://www.classiq.io/)
 - [qujax](https://github.com/CQCL/qujax)
 - [CUDA Quantum](https://developer.nvidia.com/cuda-quantum) by Nvidia
+- [QuantumAI](https://quantumopenai.com/)
   
 ## Blogs, Substacks, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
