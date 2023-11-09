@@ -174,6 +174,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Jobs: So you want to work in Quantum Computing?](https://quantumzeitgeist.com/quantum-jobs-work-in-quantum-computing/)
 - [Quantum Companies: The Mega List](https://quantumzeitgeist.com/quantum-companies-the-mega-list/)
 - [Quantum Country](https://quantum.country/) A free introduction to quantum computing and quantum mechanics
+- [QWorld](https://qworld.net/)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
