@@ -173,6 +173,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Introducing a developer's course on post-quantum cryptography](https://developer.ibm.com/blogs/quantum-introducing-course-post-quantum-cryptography/?sf181771506=1) by IBM
 - [Quantum Jobs: So you want to work in Quantum Computing?](https://quantumzeitgeist.com/quantum-jobs-work-in-quantum-computing/)
 - [Quantum Companies: The Mega List](https://quantumzeitgeist.com/quantum-companies-the-mega-list/)
+- [Quantum Country](https://quantum.country/) A free introduction to quantum computing and quantum mechanics
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
