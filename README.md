@@ -186,3 +186,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quantum Game Jam 2023](https://itch.io/jam/quantum-game-jam-2023) September 15-17, 2023
 - [Qiskit Fall Fest Informational](https://www.crowdcast.io/e/fallfestinformational/register?sf181234184=1) 30 August 2023
 - [QISKIT Fall Fest 2023](https://www.units.it/news/qiskit-fall-fest-2023) [Github Repo](https://github.com/EdoardoZappia/Qiskit_Fall_Fest_Trieste_2023) November 15-17, 2023, Trieste, Italy
+- [QHack 2024](https://qhack.ai/)
