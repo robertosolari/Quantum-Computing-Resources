@@ -187,3 +187,12 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Qiskit Fall Fest Informational](https://www.crowdcast.io/e/fallfestinformational/register?sf181234184=1) 30 August 2023
 - [QISKIT Fall Fest 2023](https://www.units.it/news/qiskit-fall-fest-2023) [Github Repo](https://github.com/EdoardoZappia/Qiskit_Fall_Fest_Trieste_2023) November 15-17, 2023, Trieste, Italy
 - [QHack 2024](https://qhack.ai/)
+
+## Quantum Computing Companies
+### Europe
+#### Germany
+- [Advanced Quantum](https://www.advanced-quantum.de/)
+#### Austria
+- [ParityQC](https://parityqc.com/)
+#### France
+- [Alice & Bob](https://alice-bob.com/)
