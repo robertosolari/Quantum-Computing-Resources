@@ -196,3 +196,5 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [ParityQC](https://parityqc.com/)
 #### France
 - [Alice & Bob](https://alice-bob.com/)
+### Spain
+- [LuxQuanta](https://www.luxquanta.com/)
