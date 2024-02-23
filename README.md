@@ -198,3 +198,5 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Alice & Bob](https://alice-bob.com/)
 ### Spain
 - [LuxQuanta](https://www.luxquanta.com/)
+### Italy
+- [ThinkQuantum](https://www.thinkquantum.com/)
