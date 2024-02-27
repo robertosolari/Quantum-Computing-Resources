@@ -205,3 +205,6 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ### Middle East
 #### Israel
 - [Quantum Machines](https://www.quantum-machines.co/)
+- [Classiq Technologies](https://www.classiq.io/)
+- [Qedma](https://www.qedma.com/)
+- [Quantum Source](https://www.qs-labs.com/)
