@@ -205,6 +205,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [ThinkQuantum](https://www.thinkquantum.com/)
 ### Netherlands
 - [Quantware](https://www.quantware.com/)
+- [Orange Quantum Systems](https://orangeqs.com/)
 
 ### Middle East
 #### Israel
