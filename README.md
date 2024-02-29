@@ -203,6 +203,8 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [LuxQuanta](https://www.luxquanta.com/)
 ### Italy
 - [ThinkQuantum](https://www.thinkquantum.com/)
+### Netherlands
+- [Quantware](https://www.quantware.com/)
 
 ### Middle East
 #### Israel
