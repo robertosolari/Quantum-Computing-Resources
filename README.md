@@ -192,11 +192,15 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 ## Quantum Computing (and Related) Companies
 ### Europe
 #### Germany
-- [Advanced Quantum](https://www.advanced-quantum.de/)
-- [Aqarios](https://aqarios.com/)
-- [PlanQC](https://www.planqc.eu/)
+| Company       | City          |
+|---------------|---------------|
+| [Advanced Quantum](https://www.advanced-quantum.de/) | Stuttgart   |
+| [Aqarios](https://aqarios.com/)|  Munich    |
+| [PlanQC](https://www.planqc.eu/) |  Munich   |
 #### Austria
-- [ParityQC](https://parityqc.com/)
+| Company       | City          |
+|---------------|---------------|
+|  [ParityQC](https://parityqc.com/) | Innsbruck   |
 #### France
 - [Alice & Bob](https://alice-bob.com/)
 - [Pasqal](https://www.pasqal.com/)
