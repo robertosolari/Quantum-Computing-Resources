@@ -194,6 +194,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 #### Germany
 - [Advanced Quantum](https://www.advanced-quantum.de/)
 - [Aqarios](https://aqarios.com/)
+- [PlanQC](https://www.planqc.eu/)
 #### Austria
 - [ParityQC](https://parityqc.com/)
 #### France
