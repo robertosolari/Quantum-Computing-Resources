@@ -202,8 +202,10 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 |---------------|---------------|
 |  [ParityQC](https://parityqc.com/) | Innsbruck   |
 #### France
-- [Alice & Bob](https://alice-bob.com/)
-- [Pasqal](https://www.pasqal.com/)
+| Company       | City          |
+|---------------|---------------|
+| [Alice & Bob](https://alice-bob.com/) | Paris   |
+| [Pasqal](https://www.pasqal.com/)|  Massy    |
 ### Spain
 - [LuxQuanta](https://www.luxquanta.com/)
 ### Italy
