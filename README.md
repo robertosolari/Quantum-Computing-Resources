@@ -207,16 +207,24 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 | [Alice & Bob](https://alice-bob.com/) | Paris   |
 | [Pasqal](https://www.pasqal.com/)|  Massy    |
 ### Spain
-- [LuxQuanta](https://www.luxquanta.com/)
+| Company       | City          |
+|---------------|---------------|
+| [LuxQuanta](https://www.luxquanta.com/) | Barcelona   |
 ### Italy
-- [ThinkQuantum](https://www.thinkquantum.com/)
+| Company       | City          |
+|---------------|---------------|
+| [ThinkQuantum](https://www.thinkquantum.com/)| Padova   |
 ### Netherlands
-- [Quantware](https://www.quantware.com/)
-- [Orange Quantum Systems](https://orangeqs.com/)
+| Company       | City          |
+|---------------|---------------|
+| [Quantware](https://www.quantware.com/)| Delft   |
+| [Orange Quantum Systems](https://orangeqs.com/)|  Delft    |
 
 ### Middle East
 #### Israel
-- [Quantum Machines](https://www.quantum-machines.co/)
-- [Classiq Technologies](https://www.classiq.io/)
-- [Qedma](https://www.qedma.com/)
-- [Quantum Source](https://www.qs-labs.com/)
+| Company       | City          |
+|---------------|---------------|
+| [Quantum Machines](https://www.quantum-machines.co/)| Tel Aviv   |
+| [Classiq Technologies](https://www.classiq.io/)|  Tel Aviv    |
+| [Qedma](https://www.qedma.com/)|  Tel Aviv   |
+| [[Quantum Source](https://www.qs-labs.com/)|  Rehovot    |
