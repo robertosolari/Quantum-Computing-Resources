@@ -227,4 +227,4 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 | [Quantum Machines](https://www.quantum-machines.co/)| Tel Aviv   |
 | [Classiq Technologies](https://www.classiq.io/)|  Tel Aviv    |
 | [Qedma](https://www.qedma.com/)|  Tel Aviv   |
-| [[Quantum Source](https://www.qs-labs.com/)|  Rehovot    |
+| [Quantum Source](https://www.qs-labs.com/)|  Rehovot    |
