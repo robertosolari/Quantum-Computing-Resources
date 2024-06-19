@@ -178,6 +178,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [QWorld](https://qworld.net/)
 - [Q-CTRL](https://q-ctrl.com/black-opal)
 - [Shtetl-Optimized](https://scottaaronson.blog/) The Blog of Scott Aaronson
+- [From probabilistic to deterministic](https://www.youtube.com/watch?v=abnpULqjU0k)
 
 ## Winter and Summer schools, Competitions, Hackathons ecc...
 - [QHack](https://qhack.ai/) Online | February 13–28, 2023 | Free
