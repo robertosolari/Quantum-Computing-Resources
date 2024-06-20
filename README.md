@@ -212,6 +212,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 | Company       | City          |
 |---------------|---------------|
 | [LuxQuanta](https://www.luxquanta.com/) | Barcelona   |
+| [CUCO](https://www.cuco.tech/) | Madrid |
 ### Italy
 | Company       | City          |
 |---------------|---------------|
