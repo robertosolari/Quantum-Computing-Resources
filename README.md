@@ -150,6 +150,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [CUDA Quantum](https://developer.nvidia.com/cuda-quantum) by Nvidia
 - [QuantumAI](https://quantumopenai.com/)
 - [Quriust](https://github.com/ScipioneParmigiano/quriust), a blazing fast quantum circuit simulator written in Rust. Only for quriust ones
+- [piQture](https://github.com/SaashaJoshi/piQture) A quantum machine learning library for image processing.
   
 ## Blogs, Substacks, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
