@@ -219,6 +219,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 | Company       | City          |
 |---------------|---------------|
 | [ThinkQuantum](https://www.thinkquantum.com/)| Padova   |
+| [Rotonium](https://www.rotonium.com/)| Padova |
 ### Netherlands
 | Company       | City          |
 |---------------|---------------|
