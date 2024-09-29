@@ -152,6 +152,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Quriust](https://github.com/ScipioneParmigiano/quriust), a blazing fast quantum circuit simulator written in Rust. Only for quriust ones
 - [piQture](https://github.com/SaashaJoshi/piQture) A quantum machine learning library for image processing.
 - [Quantum Inspire](https://www.quantum-inspire.com/) Multi hardware Quantum Technology platform
+- [Quandela Cloud](https://www.quandela.com/cloud/) Providing end-users a platform for developing photonic quantum applications.
   
 ## Blogs, Substacks, Tutorials, Youtube ecc...
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
@@ -210,6 +211,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 |---------------|---------------|
 | [Alice & Bob](https://alice-bob.com/) | Paris   |
 | [Pasqal](https://www.pasqal.com/)|  Massy    |
+| [Quandela](https://www.quandela.com/)|  Massy    |
 ### Spain
 | Company       | City          |
 |---------------|---------------|
