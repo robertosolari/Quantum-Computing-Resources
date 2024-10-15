@@ -228,6 +228,10 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 |---------------|---------------|
 | [Quantware](https://www.quantware.com/)| Delft   |
 | [Orange Quantum Systems](https://orangeqs.com/)|  Delft    |
+### UK
+| Company       | City          |
+|---------------|---------------|
+| [Quantum Dice](https://www.quantum-dice.com/)| Oxford   |
 
 ### Middle East
 #### Israel
