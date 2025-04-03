@@ -124,6 +124,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - **Quantum Mechanics: The Theoretical Minimum**, Leonard Susskind, Art Friedman, ASIN: B00IFTT8GA
 - **Introduction to Classical and Quantum Computing**, Dr Thomas G Wong, ISBN-13: 979-8985593105
 - [Quantum Information Science](https://www.amazon.com/dp/0198787480/ref=cm_sw_r_mwn_dp_3KP4HJ11TEEDJKNSXC1P) by Riccardo Manenti, Mario Motta. ISBN-13: 978-0198787488
+- [QML Unlocked: From Curiosity to Capability in Quantum Machine Learning](https://amzn.eu/d/2IROYNd) by Javier Mancilla Montero ISBN-13: 979-8312536867
 
 ### PacktPub
 - [Essential Mathematics for Quantum Computing](https://subscription.packtpub.com/book/programming/9781801073141)
