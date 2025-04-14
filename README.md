@@ -242,3 +242,9 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 | [Classiq Technologies](https://www.classiq.io/)|  Tel Aviv    |
 | [Qedma](https://www.qedma.com/)|  Tel Aviv   |
 | [Quantum Source](https://www.qs-labs.com/)|  Rehovot    |
+
+### Oceania
+#### Australia
+| Company       | City          |
+|---------------|---------------|
+| [Archer Materials](https://archerx.com.au/)| Sydney/Adelaide   |
