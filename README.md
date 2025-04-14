@@ -214,22 +214,22 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 | [Alice & Bob](https://alice-bob.com/) | Paris   |
 | [Pasqal](https://www.pasqal.com/)|  Massy    |
 | [Quandela](https://www.quandela.com/)|  Massy    |
-### Spain
+#### Spain
 | Company       | City          |
 |---------------|---------------|
 | [LuxQuanta](https://www.luxquanta.com/) | Barcelona   |
 | [CUCO](https://www.cuco.tech/) | Madrid |
-### Italy
+#### Italy
 | Company       | City          |
 |---------------|---------------|
 | [ThinkQuantum](https://www.thinkquantum.com/)| Padova   |
 | [Rotonium](https://www.rotonium.com/)| Padova |
-### Netherlands
+#### Netherlands
 | Company       | City          |
 |---------------|---------------|
 | [Quantware](https://www.quantware.com/)| Delft   |
 | [Orange Quantum Systems](https://orangeqs.com/)|  Delft    |
-### UK
+#### UK
 | Company       | City          |
 |---------------|---------------|
 | [Quantum Dice](https://www.quantum-dice.com/)| Oxford   |
