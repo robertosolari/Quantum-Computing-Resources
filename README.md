@@ -1,4 +1,13 @@
 # Quantum-Computing-Resources
+
+> [!TIP]
+> **This list now powers [QCentury](https://qcentury.eu)**, a live map of the quantum computing ecosystem.
+> It grew out of this repository and keeps it up to date with companies on a 3D globe, upcoming events and hackathons, open jobs with the skills they ask for, courses and regional insights.
+>
+> 👉 **[qcentury.eu](https://qcentury.eu)**
+>
+> This README stays here and is still maintained: everything added to it also appears on the site.
+
 Resources for learning Quantum Computing and Quantum Machine Learning
 
 ***If you want to contribute to the list, feel free to do a pull request***
