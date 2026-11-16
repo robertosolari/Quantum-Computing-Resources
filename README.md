@@ -163,6 +163,7 @@ Resources for learning Quantum Computing and Quantum Machine Learning
 - [Our Brains Use Quantum Computation](https://neurosciencenews.com/brain-quantum-computing-21695/)
 - [Youtube channel of QISKIT](https://www.youtube.com/c/qiskit/)
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) **comprehensive catalog of quantum algorithms.**
+- [Error Correction Zoo](https://errorcorrectionzoo.org/) **Catalog of classical and quantum error-correcting codes and their relations.**
 - [John Preskill’s Notes on Quantum Computation](https://www.theory.caltech.edu/~preskill/ph219/index.html#lecture)
 - [PennyLane Codebook](https://pennylane.ai/codebook) by Xanadu
 - [The Poet of Physics Speaks Out About Quantum Computing’s Future – Interview with Carlo Rovelli](https://thequantuminsider.com/2022/12/07/the-poet-of-physics-speaks-out-about-quantum-computings-future-interview-with-carlo-rovelli/)
